@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "4859cdecfe8b8f65c3ca5017",
+  "owner": "jyxwre",
+  "repo": "page-5a9608887e5a4e70744dfc45",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5a9608887e5a4e70744dfc45",
+      "a": "云上极速",
+      "b": "免费订阅clash节点",
+      "entity": "云上极速",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3219a59aa25a8ae8a4716ae869a08622b2b6ee39c843503de9a04983d62c2ade",
+      "content": {
+        "primary_entity": "云上极速",
+        "keyword1": "云上极速",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "云上极速适配 Clash 等常见客户端，根据设备系统选择对应版本，导入订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，开启云上极速体验。",
+          "AI_CLOSING_TITLE": "开始配置云上极速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付与年付可选，覆盖从 100GB 到 1000GB 流量和 3 到 20 台设备同时在线。结合 Clash 等客户端导入订阅，即可按需选择线路与节点，满足日常流媒体、游戏加速和多设备使用场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型出发，选择适合日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备在线，适合个人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，配备 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "基础版",
+          "AI_FEATURE_TITLE_2": "旗舰版",
+          "AI_FEATURE_TITLE_3": "团队版",
+          "AI_GUIDE_INTRO": "选择套餐后，查看设备适配要求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "云上极速提供多档海外加速套餐，覆盖基础、旗舰、团队三类选择，支持多设备在线，适配 Clash 等客户端。按流量和设备需求选择方案，导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "云上极速 多设备海外加速",
+          "AI_HIGHLIGHT_1": "三档套餐按月按年可选",
+          "AI_HIGHLIGHT_2": "流量覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台、旗舰版 300GB/5 台、团队版 1000GB/20 台，按流量和设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量和设备数量需求，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和客户端适配要求，确认系统版本。",
+          "AI_STEP_TEXT_3": "按照所用客户端的订阅文档，导入配置并连接节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "云上极速 套餐与订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云上极速有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "提供基础版、旗舰版和团队版。基础版每月100GB支持3台设备；旗舰版每月300GB支持5台设备；团队版每月1000GB支持20台设备。",
+          "AI_FAQ_QUESTION_2": "年付和月付价格有什么区别？",
+          "AI_FAQ_ANSWER_2": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。年付相比按月支付更划算。",
+          "AI_FAQ_QUESTION_3": "一个账号可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_3": "基础版3台、旗舰版5台、团队版20台设备可同时在线。超出数量需要升级套餐或减少同时连接设备。",
+          "AI_FAQ_QUESTION_4": "如何在设备上导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应的客户端，再根据客户端文档中的订阅导入步骤操作。不同系统的客户端配置方式略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供IPLC专线游戏加速优化和全节点原生流媒体解锁；团队版提供VIP专属高带宽节点，并支持企业定制路由。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b3e653a86cc383fe5006618307fad0b48e8e59001fc50d4e2263cce09abc1ed7",
+    "sitemap.xml": "1ff68ed6805d1a13b5f24c6663659da2b5ab6cf5ee24b2f2787bc6e9160025c4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3240d8763e8d2cfcbb3547c94106a9b42ea773d6a282e8d93c9ec6f6a97c4f9c"
+}
